@@ -1,1 +1,1 @@
-# angular-6-correo-con-tinymce
+# Como incluir TinyMCE en una aplicación Angular 6
